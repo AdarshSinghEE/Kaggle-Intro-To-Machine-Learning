@@ -25,5 +25,3 @@ This repository documents my progress through Kaggle Learn and serves as a refer
 📌 Course
 Kaggle Learn – Intro to Machine Learning
 https://www.kaggle.com/learn/intro-to-machine-learning
-📌 Course
-Kaggle Learn – Intro to Machine Learning https://www.kaggle.com/learn/intro-to-machine-learning
